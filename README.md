@@ -3,6 +3,7 @@
 ### Hi there 👋
 
 ## About Me
+<html>
 <head>
   <title>FrontalLobeNecrosis</title>
   <link rel="stylesheet" href="./assets/style.css" type="text/css">
@@ -31,7 +32,7 @@
     <h3 id="security">Security</h3>
       <p>This one is a personal interest I'll probably never develop anything related to this.</p>
 </body>
-
+</html>
 <!--
 **FrontalLobeNecrosis/FrontalLobeNecrosis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
