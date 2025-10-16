@@ -18,17 +18,17 @@
 
   <h2>Interests</h2>
     <ul>
-      <li><a href="#emulation">Emulation</a></li>
-      <li><a href="#games">Game Development</a></li>
-      <li><a href="#security">Security</a></li>
+      <li><a href="#emulation" class="link">Emulation</a></li>
+      <li><a href="#games" class="link">Game Development</a></li>
+      <li><a href="#security" class="link">Security</a></li>
     </ul>
     <h3 id="emulation">Emulation</h3>
       <p>
-        I am currently developping a gameboy emulator in Go. <a href="https://github.com/FrontalLobeNecrosis/FLNGB" target="_blank">Check it out</a>
+        I am currently developping a gameboy emulator in Go. <a href="https://github.com/FrontalLobeNecrosis/FLNGB" target="_blank" class="link">Check it out</a>
       </p>
     <h3 id="games">Game Development</h3>
       <p>
-        I have nothing in the works rn but you can check out my <a href="https://frontallobenecrosis.itch.io" target="_blank">itch.io</a> page to check what I've done
+        I have nothing in the works rn but you can check out my <a href="https://frontallobenecrosis.itch.io" target="_blank" class="link">itch.io</a> page to check what I've done
       </p>
     <h3 id="security">Security</h3>
       <p>This one is a personal interest I'll probably never develop anything related to this.</p>
