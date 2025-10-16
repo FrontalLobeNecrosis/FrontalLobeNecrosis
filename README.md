@@ -11,11 +11,17 @@
   </p>
 
   <h2>Interests</h2>
-  <ul>
-    <li>Emulation</li>
-    <li>Game Development</li>
-    <li>Security</li>
-  </ul>
+    <ul>
+      <li>Emulation</li>
+      <li>Game Development</li>
+      <li>Security</li>
+    </ul>
+    <h3>Emulation</h3>
+      <p>
+        I am currently developping a gameboy emulator in Go. <a href="https://github.com/FrontalLobeNecrosis/FLNGB">Check it out</a>
+      </p>
+    <h3>Game Development</h3>
+    <h3>Security</h3>
 </body>
 
 <!--
