@@ -24,7 +24,7 @@
     </ul>
     <h3 id="emulation">Emulation</h3>
       <p>
-        I am currently developping a gameboy emulator in Go. <a href="https://github.com/FrontalLobeNecrosis/FLNGB" target="_blank" style="color:pink;">Check it out</a>
+        I am currently developping a gameboy emulator in Go. <a href="https://github.com/FrontalLobeNecrosis/FLNGB" target="_blank">Check it out</a>
       </p>
     <h3 id="games">Game Development</h3>
       <p>
