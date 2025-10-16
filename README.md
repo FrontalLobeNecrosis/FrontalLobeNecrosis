@@ -1,3 +1,5 @@
+![image info](./assets/text.gif)
+
 ## Hi there 👋
 
 <!--
