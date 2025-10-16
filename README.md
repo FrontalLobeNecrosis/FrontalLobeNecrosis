@@ -14,7 +14,7 @@
   <ul>
     <li>Emulation</li>
     <li>Game Development</li>
-    <li>~~Hacking~~</li>
+    <li>Security</li>
   </ul>
 </body>
 
