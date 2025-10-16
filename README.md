@@ -21,8 +21,11 @@
         I am currently developping a gameboy emulator in Go. <a href="https://github.com/FrontalLobeNecrosis/FLNGB" target="_blank">Check it out</a>
       </p>
     <h3>Game Development</h3>
-      <p>I have nothing in the works rn but you can check out my <a href="https://frontallobenecrosis.itch.io" target="_blank">itch.io</a> page to check what I've done</p>
+      <p>
+        I have nothing in the works rn but you can check out my <a href="https://frontallobenecrosis.itch.io" target="_blank">itch.io</a> page to check what I've done
+      </p>
     <h3>Security</h3>
+      <p>This one is a personal interest I'll probably never develop anything related to this.</p>
 </body>
 
 <!--
