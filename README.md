@@ -28,7 +28,7 @@
       </p>
     <h3 id="games">Game Development</h3>
       <p>
-        I have nothing in the works rn but you can check out my <a href="https://frontallobenecrosis.itch.io" target="_blank"><span style="color:pink">itch.io</span></a> page to check what I've done
+        I have nothing in the works rn but you can check out my <a href="https://itch.io/profile/frontallobenecrosis" target="_blank">itch.io</a> page to check what I've done
       </p>
     <h3 id="security">Security</h3>
       <p>This one is a personal interest I'll probably never develop anything related to this.</p>
