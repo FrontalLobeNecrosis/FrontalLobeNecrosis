@@ -1,13 +1,15 @@
+<html>
+<head>
+  <link rel="stylesheet" href="./assets/style.css" type="text/css">
+</head>
+
 ![image info](./assets/text.gif)
 
 ### Hi there 👋
 
 ## About Me
 
-<html>
-<head>
-  <link rel="stylesheet" href="./assets/style.css" type="text/css">
-</head>
+
 <body>
   <p>
   Developer that likes retro games and the technology behind it. 
