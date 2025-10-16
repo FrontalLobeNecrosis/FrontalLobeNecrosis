@@ -3,12 +3,21 @@
 ### Hi there 👋
 
 ## About Me
-
-<p>
+<body>
+  <p>
   Developer that likes retro games and the technology behind it. 
   
   This Github page is used for personal projects and interests, nothing too big >_>.
-</p>
+  </p>
+
+  <h2>Interests</h2>
+  <ul>
+    <li>Emulation</li>
+    <li>Game Development</li>
+    <li>~~Hacking~~</li>
+  </ul>
+</body>
+
 <!--
 **FrontalLobeNecrosis/FrontalLobeNecrosis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
