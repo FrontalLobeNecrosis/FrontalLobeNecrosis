@@ -6,6 +6,7 @@
 
 <p>
   Developer that likes retro games and the technology behind it. 
+  
   This Github page is used for personal projects and interests, nothing too big >_>.
 </p>
 <!--
