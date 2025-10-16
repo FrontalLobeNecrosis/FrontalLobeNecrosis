@@ -3,6 +3,10 @@
 ### Hi there 👋
 
 ## About Me
+<head>
+  <title>FrontalLobeNecrosis</title>
+  <link rel="stylesheet" href="./assets/style.css" type="text/css">
+</head>
 <body>
   <p>
   Developer that likes retro games and the technology behind it. 
