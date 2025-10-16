@@ -1,7 +1,13 @@
 ![image info](./assets/text.gif)
 
-## Hi there 👋
+### Hi there 👋
 
+## About Me
+
+<p>
+  Developer that likes retro games and the technology behind it. 
+  This Github page is used for personal projects and interests, nothing too big >_>.
+</p>
 <!--
 **FrontalLobeNecrosis/FrontalLobeNecrosis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
