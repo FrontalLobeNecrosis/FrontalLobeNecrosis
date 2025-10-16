@@ -3,10 +3,9 @@
 ### Hi there 👋
 
 ## About Me
-<!Doctype html>
+
 <html>
 <head>
-  <title>FrontalLobeNecrosis</title>
   <link rel="stylesheet" href="./assets/style.css" type="text/css">
 </head>
 <body>
