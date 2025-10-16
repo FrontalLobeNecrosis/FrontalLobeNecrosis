@@ -18,9 +18,10 @@
     </ul>
     <h3>Emulation</h3>
       <p>
-        I am currently developping a gameboy emulator in Go. <a href="https://github.com/FrontalLobeNecrosis/FLNGB">Check it out</a>
+        I am currently developping a gameboy emulator in Go. <a href="https://github.com/FrontalLobeNecrosis/FLNGB" target="_blank">Check it out</a>
       </p>
     <h3>Game Development</h3>
+      <p>I have nothing in the works rn but you can check out my <a href="https://frontallobenecrosis.itch.io" target="_blank">itch.io</a> page to check what I've done</p>
     <h3>Security</h3>
 </body>
 
