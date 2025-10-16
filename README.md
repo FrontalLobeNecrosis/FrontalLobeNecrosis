@@ -1,7 +1,6 @@
-<html>
-<head>
-  <link rel="stylesheet" href="./assets/style.css" type="text/css">
-</head>
+
+<link rel="stylesheet" href="./assets/style.css" type="text/css">
+
 
 ![image info](./assets/text.gif)
 
@@ -25,11 +24,11 @@
     </ul>
     <h3 id="emulation">Emulation</h3>
       <p>
-        I am currently developping a gameboy emulator in Go. <a href="https://github.com/FrontalLobeNecrosis/FLNGB" target="_blank"><div class="link">Check it out</div></a>
+        I am currently developping a gameboy emulator in Go. <a href="https://github.com/FrontalLobeNecrosis/FLNGB" target="_blank" style="color:pink;">Check it out</a>
       </p>
     <h3 id="games">Game Development</h3>
       <p>
-        I have nothing in the works rn but you can check out my <a href="https://frontallobenecrosis.itch.io" target="_blank" class="link">itch.io</a> page to check what I've done
+        I have nothing in the works rn but you can check out my <a href="https://frontallobenecrosis.itch.io" target="_blank">itch.io</a> page to check what I've done
       </p>
     <h3 id="security">Security</h3>
       <p>This one is a personal interest I'll probably never develop anything related to this.</p>
