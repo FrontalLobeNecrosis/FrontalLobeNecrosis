@@ -1,14 +1,11 @@
 
-<link rel="stylesheet" href="./assets/style.css" type="text/css">
-
-
 ![image info](./assets/text.gif)
 
 ### Hi there 👋
 
 ## About Me
 
-
+<html>
 <body>
   <p>
   Developer that likes retro games and the technology behind it. 
@@ -32,6 +29,8 @@
       </p>
     <h3 id="security">Security</h3>
       <p>This one is a personal interest I'll probably never develop anything related to this.</p>
+    <h3>Check out my <a href="frontallobenecrosis.github.io/">website</a></h3>
+
 </body>
 </html>
 <!--
