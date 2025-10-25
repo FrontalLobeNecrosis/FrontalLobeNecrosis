@@ -29,7 +29,7 @@
       </p>
     <h3 id="security">Security</h3>
       <p>This one is a personal interest I'll probably never develop anything related to this.</p>
-    <h3>Check out my <a href="frontallobenecrosis.github.io/">website</a></h3>
+    <h3>Check out my <link href="frontallobenecrosis.github.io/">website</link></h3>
 
 </body>
 </html>
